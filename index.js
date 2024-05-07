@@ -30,4 +30,4 @@ function calculateLevel(wins, losses) {
 }
 
 let result = calculateLevel(35, 12);
-console.log("O Herói tem saldo de " + result.winBalance + " está no nível de " + result.level);
+console.log("O Herói tem saldo de " + result.winBalance + " e está no nível de " + result.level);
